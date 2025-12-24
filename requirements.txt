@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+sympy
+pillow
+scikit-image
+jupyterlab
+ipykernel
